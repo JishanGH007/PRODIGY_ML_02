@@ -7,8 +7,8 @@ The dataset taken from kaggle contains columns namely Customer id , Age , Spendi
 
 # Prerequisites
 Python libraries used:
-matplotlib
-seaborn
-Numpy
-Pandas
-Scikit-Learn
+matplotlib   
+seaborn   
+Numpy   
+Pandas   
+Scikit-Learn  
