@@ -6,7 +6,8 @@ This repository conatining a jupyter notebook file of implementation of K-Means 
 The dataset taken from kaggle contains columns namely Customer id , Age , Spending score and Annual income.
 
 # Prerequisites
-Python libraries used:
+Python libraries used:   
+
 matplotlib   
 seaborn   
 Numpy   
